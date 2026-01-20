@@ -16,7 +16,7 @@
       <img src="../assets/Jp.jpg" alt="Profile Picture" class="img-fluid rounded-start" style="width: 100px; height: 100px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title text-white">John Paul Balangue</h5>
-        <p class="card-text text-white">The mountain-man, allegedly into substances, but loves his groupmates, and a Python certified prodigy.</p>
+        <p class="card-text text-white">The mountain-man, and a Python certified prodigy.</p>
       </div>
     </div>
 
@@ -25,7 +25,7 @@
       <img src="../assets/Zian.jpg" alt="Profile Picture" class="img-fluid rounded-start" style="width: 100px; height: 100px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title text-white">Zian Tabor</h5>
-        <p class="card-text text-white">I want tall woman</p>
+        <p class="card-text text-white">I want cool stuff and loves shooting his shot.</p>
       </div>
     </div>
   </div>
