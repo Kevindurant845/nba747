@@ -82,7 +82,7 @@
     
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-4">
-      <p class="mb-0">&copy; {{ new Date().getFullYear() }} NBA747 | Group Dictech</p>
+      <p class="mb-0">&copy; {{ new Date().getFullYear() }} NBA747 | Group Benetech</p>
     </footer>
 
   </div>
